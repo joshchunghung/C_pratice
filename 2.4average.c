@@ -5,6 +5,7 @@ int main(){
     // double + double -> double
 
     // 不同型別運算時，會有隱性轉型，小範圍會轉成範圍大的值再來運算
+    // double > float > int
     // int + float -> int轉float + float -> float (float的範圍>int的範圍)
 
     int i,j,k;
