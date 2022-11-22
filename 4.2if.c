@@ -13,6 +13,10 @@ int main(){
         printf("參加人數是%d,總金額是%d\n",people,price);
     }
 
+    // 輸入多個參數
+    // int i,j,k
+    // scanf("%d%d%d",&i,&j,&k);
+
 
     return 0;
 }
